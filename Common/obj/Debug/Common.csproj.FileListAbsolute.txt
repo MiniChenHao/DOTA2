@@ -1,0 +1,6 @@
+F:\Program\C#\ASP.NET\DOTA2\Common\bin\Debug\Common.dll
+F:\Program\C#\ASP.NET\DOTA2\Common\bin\Debug\Common.pdb
+F:\Program\C#\ASP.NET\DOTA2\Common\bin\Debug\BarcodeLib.dll
+F:\Program\C#\ASP.NET\DOTA2\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\Program\C#\ASP.NET\DOTA2\Common\obj\Debug\Common.dll
+F:\Program\C#\ASP.NET\DOTA2\Common\obj\Debug\Common.pdb

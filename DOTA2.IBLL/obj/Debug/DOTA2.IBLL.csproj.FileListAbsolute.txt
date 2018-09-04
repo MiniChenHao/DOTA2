@@ -1,0 +1,9 @@
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.IBLL\bin\Debug\DOTA2.IBLL.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.IBLL\bin\Debug\DOTA2.IBLL.pdb
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.IBLL\bin\Debug\DOTA2.Model.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.IBLL\bin\Debug\EntityFramework.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.IBLL\bin\Debug\DOTA2.Model.pdb
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.IBLL\bin\Debug\EntityFramework.xml
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.IBLL\obj\Debug\DOTA2.IBLL.csprojResolveAssemblyReference.cache
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.IBLL\obj\Debug\DOTA2.IBLL.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.IBLL\obj\Debug\DOTA2.IBLL.pdb

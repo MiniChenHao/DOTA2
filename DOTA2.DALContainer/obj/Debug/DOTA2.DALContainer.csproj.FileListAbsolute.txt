@@ -1,0 +1,15 @@
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\bin\Debug\DOTA2.DALContainer.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\bin\Debug\DOTA2.DALContainer.pdb
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\bin\Debug\Autofac.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\bin\Debug\DOTA2.DAL.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\bin\Debug\DOTA2.IDAL.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\bin\Debug\EntityFramework.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\bin\Debug\DOTA2.Model.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\bin\Debug\DOTA2.DAL.pdb
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\bin\Debug\DOTA2.IDAL.pdb
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\bin\Debug\Autofac.xml
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\bin\Debug\EntityFramework.xml
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\bin\Debug\DOTA2.Model.pdb
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\obj\Debug\DOTA2.DALContainer.csprojResolveAssemblyReference.cache
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\obj\Debug\DOTA2.DALContainer.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DALContainer\obj\Debug\DOTA2.DALContainer.pdb

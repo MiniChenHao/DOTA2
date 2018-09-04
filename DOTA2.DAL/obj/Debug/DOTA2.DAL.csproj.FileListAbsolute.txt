@@ -1,0 +1,14 @@
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\bin\Debug\DOTA2.DAL.dll.config
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\bin\Debug\DOTA2.DAL.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\bin\Debug\DOTA2.DAL.pdb
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\bin\Debug\DOTA2.IDAL.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\bin\Debug\DOTA2.Model.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\bin\Debug\EntityFramework.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\bin\Debug\DOTA2.IDAL.pdb
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\bin\Debug\DOTA2.Model.pdb
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\bin\Debug\EntityFramework.xml
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\obj\Debug\DOTA2.DAL.csprojResolveAssemblyReference.cache
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\obj\Debug\DOTA2.DAL.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.DAL\obj\Debug\DOTA2.DAL.pdb

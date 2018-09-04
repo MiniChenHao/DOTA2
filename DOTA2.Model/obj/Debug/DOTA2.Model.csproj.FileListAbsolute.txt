@@ -1,0 +1,10 @@
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.Model\bin\Debug\DOTA2.Model.dll.config
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.Model\bin\Debug\DOTA2.Model.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.Model\bin\Debug\DOTA2.Model.pdb
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.Model\bin\Debug\EntityFramework.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.Model\bin\Debug\EntityFramework.xml
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.Model\obj\Debug\DOTA2.Model.csprojResolveAssemblyReference.cache
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.Model\obj\Debug\DOTA2.Model.dll
+F:\Program\C#\ASP.NET\DOTA2\DOTA2.Model\obj\Debug\DOTA2.Model.pdb
